@@ -157,7 +157,7 @@
 
 ## spotlight
 - Object-Contextual Representations for Semantic Segmentation
-  - [paper](Object-Contextual Representations for Semantic Segmentation)
+  - [paper](https://arxiv.org/abs/1909.11065), [code](https://github.com/rosinality/ocr-pytorch)
 
 ## poster
 - GINet: Graph Interaction Network for Scene Parsing
