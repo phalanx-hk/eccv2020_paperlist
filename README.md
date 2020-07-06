@@ -36,7 +36,7 @@
 
 **Multi-task Learning Increases Adversarial Robustness**
 
-### spotlight
+## spotlight
 **Rethinking Bottleneck Structure for Efficient Mobile Network Design**
 
 **Negative Margin Matters: Understanding Margin in Few-shot Classification**
@@ -47,7 +47,7 @@
 
 **PROFIT: A Novel Training Method for sub-4-bit MobileNet Models**
 
-### poster
+## poster
 **URIE: Universal Image Enhancement for Visual Recognition in the Wild**
 
 **DADA: Differentiable Automatic Data Augmentation**
