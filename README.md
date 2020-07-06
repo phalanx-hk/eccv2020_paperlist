@@ -22,70 +22,112 @@
 ## oral
 **Spatially Adaptive Inference with Stochastic Feature Sampling and Interpolation**
 - paper: [https://arxiv.org/abs/2003.08866](https://arxiv.org/abs/2003.08866)
+- summary: []()
 
 **MutualNet: Adaptive ConvNet via Mutual Learning from Network Width and Resolution**
 - paper: [https://arxiv.org/abs/1909.12978](https://arxiv.org/abs/1909.12978)
+- summary: []()
 - code: [https://github.com/taoyang1122/MutualNet](https://github.com/taoyang1122/MutualNet)
 
 **Hybrid Models for Open Set Recognition**
 - paper: [https://arxiv.org/abs/2003.12506](https://arxiv.org/abs/2003.12506)
+- summary: []()
 
 **Gradient Centralization: A New Optimization Technique for Deep Neural Networks**
 - paper: [https://arxiv.org/abs/2004.01461](https://arxiv.org/abs/2004.01461)
+- summary: []()
 - code: [https://github.com/Yonghongwei/Gradient-Centralization](https://github.com/Yonghongwei/Gradient-Centralization)
 
 **Multi-task Learning Increases Adversarial Robustness**
+- paper: []()
+- summary: []()
 
 ## spotlight
 **Rethinking Bottleneck Structure for Efficient Mobile Network Design**
+- paper: []()
+- summary: []()
 
 **Negative Margin Matters: Understanding Margin in Few-shot Classification**
 - paper: [https://arxiv.org/abs/2003.12060](https://arxiv.org/abs/2003.12060)
+- summary: []()
 - code: [https://github.com/bl0/negative-margin.few-shot](https://github.com/bl0/negative-margin.few-shot)
 
 **Dynamic Group Convolution for Accelerating Convolutional Neural Networks**
+- paper: []()
+- summary: []()
 
 **PROFIT: A Novel Training Method for sub-4-bit MobileNet Models**
+- paper: []()
+- summary: []()
 
 ## poster
 **URIE: Universal Image Enhancement for Visual Recognition in the Wild**
+- paper: []()
+- summary: []()
 
 **DADA: Differentiable Automatic Data Augmentation**
 - paper: [https://arxiv.org/abs/2003.03780](https://arxiv.org/abs/2003.03780)
+- summary: []()
 
 **AutoMix: Mixup Networks for Sample Interpolation via Cooperative Barycenter Learning**
+- paper: []()
+- summary: []()
 
 **Momentum Batch Normalization for Deep Learning with Small Batch Size**
+- paper: []()
+- summary: []()
 
 **Hard negatives examples are hard, but useful**
+- paper: []()
+- summary: []()
 
 **Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?**
 - paper: [https://arxiv.org/abs/2003.11539](https://arxiv.org/abs/2003.11539)
+- summary: []()
 
 **Topic-aware Multi-Label Classification**
+- paper: []()
+- summary: []()
 
 **Resolution Switchable Networks for Runtime Efficient Image Classification**
+- paper: []()
+- summary: []()
 
 **WeightNet: Revisiting the Design Space of Weight Networks**
+- paper: []()
+- summary: []()
 
 **Suppressing Mislabeled Data via Grouping and Self-Attention**
+- paper: []()
+- summary: []()
 
 **Attentive Normalization**
 - paper: [https://arxiv.org/abs/1908.01259](https://arxiv.org/abs/1908.01259)
+- summary: []()
 
 **L2 Norm: A Generic Visualization Approach for Convolutional Neural Networks**
+- paper: []()
+- summary: []()
 
 **FeatMatch: Feature-Based Augmentation for Semi-Supervised Learning**
+- paper: []()
+- summary: []()
 
 **Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches**
 - paper: [https://arxiv.org/abs/2003.03836](https://arxiv.org/abs/2003.03836)
+- summary: []()
 
 **PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer**
+- paper: []()
+- summary: []()
 
 **Faster AutoAugment: Learning Augmentation Strategies using Backpropagation**
 - paper: [https://arxiv.org/abs/1911.06987](https://arxiv.org/abs/1911.06987)
+- summary: []()
 
 **ATCluster: Self-Supervised Gaussian-Attention Network for Image Clustering**
+- paper: []()
+- summary: []()
 
 <a name="2D_Object_Detection"></a>
 
@@ -93,56 +135,85 @@
 ## oral
 **End-to-End Object Detection with Transformers**
 - paper: [https://arxiv.org/abs/2005.12872](https://arxiv.org/abs/2005.12872)
+- summary: []()
 - code: [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr)
 
 **BorderDet: Border Feature for Dense Object Detection**
+- paper: []()
+- summary: []()
 
 ## spotlight
 **Side-Aware Boundary Localization for More Precise Object Detection**
 - paper: [https://arxiv.org/abs/1912.04260](https://arxiv.org/abs/1912.04260)
+- summary: []()
 - code: [https://github.com/open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)
 
 **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
+- paper: []()
+- summary: []()
 
 **AABO: Adaptive Anchor Box Optimization for Object Detection via Bayesian Sub-sampling**
+- paper: []()
+- summary: []()
 
 **A General Toolbox for Understanding Errors in Object Detection**
+- paper: []()
+- summary: []()
 
 ## poster
 **Soft Anchor-Point Object Detection**
 - paper: [https://arxiv.org/abs/1911.12448](https://arxiv.org/abs/1911.12448)
+- summary: []()
 
 **MimicDet: Bridging the Gap Between One-Stage and Two-Stage Object Detection**
+- paper: []()
+- summary: []()
 
 **Disentangled Non-local Neural Networks**
 - paper: [https://arxiv.org/abs/2006.06668](https://arxiv.org/abs/2006.06668)
+- summary: []()
 
 **Dynamic R-CNN: Towards High Quality Object Detection via Dynamic Training**
 - paper: [https://arxiv.org/abs/2004.06002](https://arxiv.org/abs/2004.06002)
+- summary: []()
 
 **OS2D: One-Stage One-Shot Object Detection by Matching Anchor Features**
 - paper: [https://arxiv.org/abs/2003.06800](https://arxiv.org/abs/2003.06800)
+- summary: []()
 - code: [https://github.com/aosokin/os2d](https://github.com/aosokin/os2d)
 
 **New Threats against Object Detector with Non-Local Block**
+- paper: []()
+- summary: []()
 
 **Dense RepPoints: Representing Visual Objects with Dense Point Sets**
 - paper: [https://arxiv.org/abs/1912.11473](https://arxiv.org/abs/1912.11473)
+- summary: []()
 - code: [https://github.com/justimyhxu/Dense-RepPoints](https://github.com/justimyhxu/Dense-RepPoints)
 
 **Large Batch Optimization for Object Detection: Training COCO in 12 Minutes**
+- paper: []()
+- summary: []()
 
 **Dive Deeper Into Box for Object Detection**
+- paper: []()
+- summary: []()
 
 **CenterNet Heatmap Propagation for Real-time Video Object Detection**
+- paper: []()
+- summary: []()
 
 **Probabilistic Anchor Assignment with IoU Prediction for Object Detection**
+- paper: []()
+- summary: []()
 
 **HoughNet: Integrating near and long-range evidence for bottom-up object detection**
+- paper: []()
+- summary: []()
 
 **Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN**
 - paper: [https://arxiv.org/abs/2007.01571](https://arxiv.org/abs/2007.01571)
-
+- summary: []()
 
 <a name="3D_Object_Detection"></a>
 
@@ -150,41 +221,58 @@
 ## spotlight
 **RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving**
 - paper: [https://arxiv.org/abs/2001.03343](https://arxiv.org/abs/2001.03343)
+- summary: []()
 
 ## poster
 **Finding Your (3D) Center: 3D Object Detection Using a Learned Loss**
 - paper: [https://arxiv.org/abs/2004.02693](https://arxiv.org/abs/2004.02693)
+- summary: []()
 
 **Rotation-robust Intersection over Union for 3D Object Detection**
+- paper: []()
+- summary: []()
 
 **Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots**
 - paper: [https://arxiv.org/abs/1912.12791](https://arxiv.org/abs/1912.12791)
+- summary: []()
 
 **Automated Data Augmentation Significantly Improves 3D Object Detection**
+- paper: []()
+- summary: []()
 
 <a name="image_retrieval"></a>
 
 # image retrieval
 ## oral
 **Learning and aggregating deep local descriptors for instance-level recognition**
+- paper: []()
+- summary: []()
 
 **Targeted Attack for Deep Hashing based Retrieval**
 - paper: [https://arxiv.org/abs/2004.07955](https://arxiv.org/abs/2004.07955)
+- summary: []()
 
 **Online Invariance Selection for Local Feature Descriptors**
+- paper: []()
+- summary: []()
 
 **ExchNet: A Unified Hashing Network for Large-Scale Fine-Grained Image Retrieval**
+- paper: []()
+- summary: []()
 
 ## spotlight
 **S2DNet: Learning accurate correspondences for sparse-to-dense feature matching**
 - paper: [https://arxiv.org/abs/2004.01673](https://arxiv.org/abs/2004.01673)
+- summary: []()
 
 ## poster
 **Unifying Deep Local and Global Features for Image Search**
 - paper: [https://arxiv.org/abs/2001.05027](https://arxiv.org/abs/2001.05027)
+- summary: []()
 
 **SOLAR: Second-Order Loss and Attention for Image Retrieval**
 - paper: [https://arxiv.org/abs/2001.08972](https://arxiv.org/abs/2001.08972)
+- summary: []()
 
 <a name="metric_learning"></a>
 
@@ -192,37 +280,58 @@
 ## spotlight
 **Metric learning: cross-entropy vs. pairwise losses**
 - paper: [https://arxiv.org/abs/2003.08983](https://arxiv.org/abs/2003.08983)
+- summary: []()
 
 ## poster
 **pherical Feature Transform for Deep Metric Learning**
+- paper: []()
+- summary: []()
 
 **The Group Loss for Deep Metric Learning**
 - paper: [http://arxiv.org/abs/1912.00385](http://arxiv.org/abs/1912.00385)
+- summary: []()
 
 **BroadFace: Looking at Tens of Thousands of People at Once for Face Recognition**
+- paper: []()
+- summary: []()
 
 **Explainable Face Recognition**
+- paper: []()
+- summary: []()
 
 <a name="reid"></a>
 
 # person/vehicle re-identification
 ## oral
 **Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification**
+- paper: []()
+- summary: []()
 
 **Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network**
+- paper: []()
+- summary: []()
 
 ## spotlight
 **Identity-Guided Human Semantic Parsing Learning for Person Re-Identification**
+- paper: []()
+- summary: []()
 
 ## poster 
 **Faster Person Re-Identification**
+- paper: []()
+- summary: []()
 
 **The Devil is in the Details: Self-Supervised Attention for Vehicle Re-Identification**
 - paper: [https://arxiv.org/abs/2004.06271](https://arxiv.org/abs/2004.06271)
+- summary: []()
 
 **Generalizing Person Re-Identification by Camera-Aware Invariance Learning and Cross-Domain Mixup**
+- paper: []()
+- summary: []()
 
 **Prediction, Recovery and Identification: Adaptive Low-Resolution Person Re-Identification**
+- paper: []()
+- summary: []()
 
 <a name="instance_segmentation"></a>
 
@@ -230,23 +339,36 @@
 ## oral
 **Conditional Convolutions for Instance Segmentation**
 - paper: [https://arxiv.org/abs/2003.05664](https://arxiv.org/abs/2003.05664)
+- summary: []()
 
 ## poster
 **SIP: Spatial Information Preservation for Fast Instance Segmentation**
+- paper: []()
+- summary: []()
 
 **Learning with Noisy Class Labels for Instance Segmentation**
+- paper: []()
+- summary: []()
 
 **Boundary-preserving Mask R-CNN**
+- paper: []()
+- summary: []()
 
 **The Devil is in Classification: A Simple Framework for Long-tail Instance Segmentation**
+- paper: []()
+- summary: []()
 
 **SOLO: Segmenting Objects by Locations**
 - paper: [https://arxiv.org/abs/1912.04488](https://arxiv.org/abs/1912.04488)
+- summary: []()
 
 **LevelSet R-CNN: A Deep Variational Method for Instance Segmentation**
+- paper: []()
+- summary: []()
 
 **PatchPerPix for Instance Segmentation**
 - paper: [https://arxiv.org/abs/2001.07626](https://arxiv.org/abs/2001.07626)
+- summary: []()
 
 <a name="semantic_segmentation"></a>
 
@@ -254,53 +376,76 @@
 ## oral
 **Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation**
 - paper: [https://arxiv.org/abs/2003.08440](https://arxiv.org/abs/2003.08440)
+- summary: []()
 
 **Semantic Flow for Fast and Accurate Scene Parsing**
 - paper: [https://arxiv.org/abs/2002.10120](https://arxiv.org/abs/2002.10120)
+- summary: []()
 - code: [https://github.com/donnyyou/torchcv](https://github.com/donnyyou/torchcv)
 
 ## spotlight
 **Object-Contextual Representations for Semantic Segmentation**
 - paper: [https://arxiv.org/abs/1909.11065](https://arxiv.org/abs/1909.11065)
+- summary: []()
 - code: [https://github.com/rosinality/ocr-pytorch](https://github.com/rosinality/ocr-pytorch)
 
 ## poster
 **GINet: Graph Interaction Network for Scene Parsing**
+- paper: []()
+- summary: []()
 
 **Blended Grammar Network for Human Parsing**
+- paper: []()
+- summary: []()
 
 **EfficientFCN: Holistically-guided Decoding for Semantic Segmentation**
+- paper: []()
+- summary: []()
 
 **Learning to Predict Context-adaptive Convolution for Semantic Segmentation**
 - paper: [https://arxiv.org/abs/2004.08222](https://arxiv.org/abs/2004.08222)
+- summary: []()
 
 <a name="tracking"></a>
 
 # tracking
 ## oral
 **Segment as Points for Efficient Online Multi-Object Tracking and Segmentation**
+- paper: []()
+- summary: []()
 
 ## spotlight
 **Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking**
+- paper: []()
+- summary: []()
 
 **Tracking objects as points**
 - paper: [https://arxiv.org/abs/2004.01177](https://arxiv.org/abs/2004.01177)
+- summary: []()
 - code: [https://github.com/xingyizhou/CenterTrack](https://github.com/xingyizhou/CenterTrack)
 
 **TAO: A Large-scale Benchmark for Tracking Any Object**
 - paper: [https://arxiv.org/abs/2005.10356](https://arxiv.org/abs/2005.10356)
+- summary: []()
 - project page: [http://taodataset.org/](http://taodataset.org/)
 
 ## poster
 **Towards Real-time MOT: A Joint Solution for Detection and Appearance Embedding**
+- paper: []()
+- summary: []()
 
 **Learning Feature Embeddings for Discriminant Model based Tracking**
+- paper: []()
+- summary: []()
 
 **Learning Object-aware Anchor-free Networks for Real-time Object Tracking**
+- paper: []()
+- summary: []()
 
 **PG-Net: Pixel to Global Matching Network for Visual Tracking
 Know Your Surroundings: Exploiting Scene Information for Object Tracking**
 - paper: [https://arxiv.org/abs/2003.11014](https://arxiv.org/abs/2003.11014)
+- summary: []()
 
 <a name="motion_prediction"></a>
 
@@ -308,18 +453,27 @@ Know Your Surroundings: Exploiting Scene Information for Object Tracking**
 ## poster
 **PiP: Planning-informed Trajectory Prediction for Autonomous Driving**
 - paper: [https://arxiv.org/abs/2003.11476](https://arxiv.org/abs/2003.11476)
+- summary: []()
 
 <a name="human_object_interaction_detection"></a>
 
 # human object interaction detection
 ## poster
 **Detecting Human-Object Interactions with Action Co-occurrence Priors**
+- paper: []()
+- summary: []()
 
 **UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection**
+- paper: []()
+- summary: []()
 
 **Visual Compositional Learning for Human Object Interaction Detection**
+- paper: []()
+- summary: []()
 
 **Polysemy Deciphering Network for Human-Object Interaction Detection**
+- paper: []()
+- summary: []()
 
 <a name="pose_estimation"></a>
 
@@ -327,24 +481,37 @@ Know Your Surroundings: Exploiting Scene Information for Object Tracking**
 ## oral
 **Self6D: Self-Supervised Monocular 6D Object Pose Estimation**
 - paper: [https://arxiv.org/abs/2004.06468](https://arxiv.org/abs/2004.06468)
+- summary: []()
 
 **End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras**
 - paper: [https://arxiv.org/abs/2004.06239](https://arxiv.org/abs/2004.06239)
+- summary: []()
 
 ## spotlight
 **HMOR: Hierarchical Multi-person Ordinal Relations for Monocular Multi-Person 3D Pose Estimation**
+- paper: []()
+- summary: []()
 
 **Learning Delicate Local Representations for Multi-Person Pose Estimation**
 - paper: [http://arxiv.org/abs/2003.04030](http://arxiv.org/abs/2003.04030)
+- summary: []()
 
 ## poster
 **SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation**
+- paper: []()
+- summary: []()
 
 **Adversarial Semantic Data Augmentation for Human Pose Estimation**
+- paper: []()
+- summary: []()
 
 **Occlusion-Aware Siamese Network for Human Pose Estimation**
+- paper: []()
+- summary: []()
 
 **emporal Keypoint Matching and Refinement Network for Pose Estimation and Tracking**
+- paper: []()
+- summary: []()
 
 <a name="knowledge_distillation"></a>
 
@@ -352,22 +519,37 @@ Know Your Surroundings: Exploiting Scene Information for Object Tracking**
 ## spotlight
 **Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification**
 - paper: [https://arxiv.org/abs/2001.01536](https://arxiv.org/abs/2001.01536)
+- summary: []()
 
 ## poster
 **Knowledge Transfer via Dense Cross-layer Mutual-distillation**
+- paper: []()
+- summary: []()
 
 **Matching Guided Distillation**
+- paper: []()
+- summary: []()
 
 **Feature Normalized Knowledge Distillation for Image Classification**
+- paper: []()
+- summary: []()
 
 <a name="domain_adaptation"></a>
 
 # domain adaptation
 ## poster
 **Learning to Detect Open Classes for Universal Domain Adaptation**
+- paper: []()
+- summary: []()
 
 **On the Effectiveness of Image Rotation for Open Set Domain Adapation**
+- paper: []()
+- summary: []()
 
 **Self-Supervised CycleGAN for Object-Preserving Image-to-Image Domain Adaptation**
+- paper: []()
+- summary: []()
 
 **Domain Adaptation through Task Distillation**
+- paper: []()
+- summary: []()
