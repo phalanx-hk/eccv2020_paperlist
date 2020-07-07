@@ -44,7 +44,7 @@
 
 ## spotlight
 **Rethinking Bottleneck Structure for Efficient Mobile Network Design**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.02269](https://arxiv.org/abs/2007.02269)
 - summary: []()
 
 **Negative Margin Matters: Understanding Margin in Few-shot Classification**
@@ -208,11 +208,16 @@
 - summary: []()
 
 **HoughNet: Integrating near and long-range evidence for bottom-up object detection**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.02355](https://arxiv.org/abs/2007.02355)
 - summary: []()
+- code: [https://github.com/nerminsamet/houghnet](https://github.com/nerminsamet/houghnet)
 
 **Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN**
 - paper: [https://arxiv.org/abs/2007.01571](https://arxiv.org/abs/2007.01571)
+- summary: []()
+
+**Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation**
+- paper: [https://arxiv.org/abs/2007.02846](https://arxiv.org/abs/2007.02846)
 - summary: []()
 
 <a name="3D_Object_Detection"></a>
@@ -333,6 +338,11 @@
 - paper: []()
 - summary: []()
 
+**Multiple Expert Brainstorming for Domain Adaptive Person Re-identification**
+- paper: [https://arxiv.org/abs/2007.01546](https://arxiv.org/abs/2007.01546)
+- summary: []()
+- code: [https://github.com/YunpengZhai/MEB-Net](https://github.com/YunpengZhai/MEB-Net)
+
 <a name="instance_segmentation"></a>
 
 # instance segmentation
@@ -411,8 +421,9 @@
 # tracking
 ## oral
 **Segment as Points for Efficient Online Multi-Object Tracking and Segmentation**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.01550](https://arxiv.org/abs/2007.01550)
 - summary: []()
+- code: [https://github.com/detectRecog/PointTrack](https://github.com/detectRecog/PointTrack)
 
 ## spotlight
 **Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking**
