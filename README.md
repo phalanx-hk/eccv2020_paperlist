@@ -416,6 +416,11 @@
 - paper: [https://arxiv.org/abs/2004.08222](https://arxiv.org/abs/2004.08222)
 - summary: []()
 
+**SegFix: Model-Agnostic Boundary Refinement for Segmentation**
+- paper: [https://arxiv.org/abs/2007.04269](https://arxiv.org/abs/2007.04269)
+- summary: []()
+- code: [https://github.com/openseg-group/openseg.pytorch](https://github.com/openseg-group/openseg.pytorch)
+
 <a name="tracking"></a>
 
 # tracking
