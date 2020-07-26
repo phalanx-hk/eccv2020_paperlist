@@ -14,6 +14,8 @@
 - [pose estimation](#pose_estimation)
 - [knowledge distillation](#knowledge_distillation)
 - [domain adaptation](#domain_adaptation)
+- [action recognition](#action_recognition)
+- [depth estimation](#depth_estimation)
 
 
 <a name="Image_Recognition"></a>
@@ -53,21 +55,33 @@
 - code: [https://github.com/bl0/negative-margin.few-shot](https://github.com/bl0/negative-margin.few-shot)
 
 **Dynamic Group Convolution for Accelerating Convolutional Neural Networks**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.04242](https://arxiv.org/abs/2007.04242)
 - summary: []()
+- code: [https://github.com/zhuogege1943/dgc](https://github.com/zhuogege1943/dgc)
 
 **PROFIT: A Novel Training Method for sub-4-bit MobileNet Models**
 - paper: []()
 - summary: []()
 
+**Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets**
+- paper: [https://arxiv.org/abs/2007.09654](https://arxiv.org/abs/2007.09654)
+- summary: []()
+- code: [https://github.com/wutong16/DistributionBalancedLoss](https://github.com/wutong16/DistributionBalancedLoss)
+
 ## poster
+**Funnel Activation for Visual Recognition**
+- paper: [https://arxiv.org/abs/2007.11824](https://arxiv.org/abs/2007.11824)
+- summary: []()
+- code: [https://github.com/megvii-model/FunnelAct](https://github.com/megvii-model/FunnelAct)
+
 **URIE: Universal Image Enhancement for Visual Recognition in the Wild**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.08979](https://arxiv.org/abs/2007.08979)
 - summary: []()
 
 **DADA: Differentiable Automatic Data Augmentation**
 - paper: [https://arxiv.org/abs/2003.03780](https://arxiv.org/abs/2003.03780)
 - summary: []()
+- code: [https://github.com/VDIGPKU/DADA](https://github.com/VDIGPKU/DADA)
 
 **AutoMix: Mixup Networks for Sample Interpolation via Cooperative Barycenter Learning**
 - paper: []()
@@ -90,12 +104,14 @@
 - summary: []()
 
 **Resolution Switchable Networks for Runtime Efficient Image Classification**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.09558](https://arxiv.org/abs/2007.09558)
 - summary: []()
+- code: [https://github.com/yikaiw/RS-Nets](https://github.com/yikaiw/RS-Nets)
 
 **WeightNet: Revisiting the Design Space of Weight Networks**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.11823](https://arxiv.org/abs/2007.11823)
 - summary: []()
+- code: [https://github.com/megvii-model/WeightNet](https://github.com/megvii-model/WeightNet)
 
 **Suppressing Mislabeled Data via Grouping and Self-Attention**
 - paper: []()
@@ -106,11 +122,12 @@
 - summary: []()
 
 **L2 Norm: A Generic Visualization Approach for Convolutional Neural Networks**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.09748](https://arxiv.org/abs/2007.09748)
+- code: [https://github.com/ahmdtaha/constrained_attention_filter](https://github.com/ahmdtaha/constrained_attention_filter)
 - summary: []()
 
 **FeatMatch: Feature-Based Augmentation for Semi-Supervised Learning**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.08505](https://arxiv.org/abs/2007.08505)
 - summary: []()
 
 **Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches**
@@ -118,16 +135,26 @@
 - summary: []()
 
 **PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.06191](https://arxiv.org/abs/2007.06191)
+- code: [https://github.com/d-li14/PSConv](https://github.com/d-li14/PSConv)
 - summary: []()
 
 **Faster AutoAugment: Learning Augmentation Strategies using Backpropagation**
 - paper: [https://arxiv.org/abs/1911.06987](https://arxiv.org/abs/1911.06987)
 - summary: []()
 
-**ATCluster: Self-Supervised Gaussian-Attention Network for Image Clustering**
-- paper: []()
+**GATCluster: Self-Supervised Gaussian-Attention Network for Image Clustering**
+- paper: [https://arxiv.org/abs/2002.11863](https://arxiv.org/abs/2002.11863)
 - summary: []()
+
+**Volumetric Transformer Networks**
+- paper: [https://arxiv.org/abs/2007.09433](https://arxiv.org/abs/2007.09433)
+- summary: []()
+
+**OnlineAugment: Online Data Augmentation with Less Domain Knowledge**
+- paper: [https://arxiv.org/abs/2007.09271](https://arxiv.org/abs/2007.09271)
+- summary: []()
+
 
 <a name="2D_Object_Detection"></a>
 
@@ -139,8 +166,9 @@
 - code: [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr)
 
 **BorderDet: Border Feature for Dense Object Detection**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.11056](https://arxiv.org/abs/2007.11056)
 - summary: []()
+- code: [https://github.com/Megvii-BaseDetection/BorderDet](https://github.com/Megvii-BaseDetection/BorderDet)
 
 ## spotlight
 **Side-Aware Boundary Localization for More Precise Object Detection**
@@ -149,11 +177,11 @@
 - code: [https://github.com/open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)
 
 **PIoU Loss: Towards Accurate Oriented Object Detection in Complex Environments**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.09584](https://arxiv.org/abs/2007.09584)
 - summary: []()
 
 **AABO: Adaptive Anchor Box Optimization for Object Detection via Bayesian Sub-sampling**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.09336](https://arxiv.org/abs/2007.09336)
 - summary: []()
 
 **A General Toolbox for Understanding Errors in Object Detection**
@@ -204,8 +232,9 @@
 - summary: []()
 
 **Probabilistic Anchor Assignment with IoU Prediction for Object Detection**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.08103](https://arxiv.org/abs/2007.08103)
 - summary: []()
+- code: [https://github.com/kkhoot/PAA](https://github.com/kkhoot/PAA)
 
 **HoughNet: Integrating near and long-range evidence for bottom-up object detection**
 - paper: [https://arxiv.org/abs/2007.02355](https://arxiv.org/abs/2007.02355)
@@ -245,6 +274,10 @@
 - paper: []()
 - summary: []()
 
+**Pillar-based Object Detection for Autonomous Driving**
+- paper: [https://arxiv.org/abs/2007.10323](https://arxiv.org/abs/2007.10323)
+- summary: []()
+
 <a name="image_retrieval"></a>
 
 # image retrieval
@@ -258,11 +291,11 @@
 - summary: []()
 
 **Online Invariance Selection for Local Feature Descriptors**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.08988](https://arxiv.org/abs/2007.08988)
 - summary: []()
 
 **ExchNet: A Unified Hashing Network for Large-Scale Fine-Grained Image Retrieval**
-- paper: []()
+- paper: [http://www.weixiushen.com/publication/eccv20_ExchNet.pdf](http://www.weixiushen.com/publication/eccv20_ExchNet.pdf)
 - summary: []()
 
 ## spotlight
@@ -271,6 +304,10 @@
 - summary: []()
 
 ## poster
+**Smooth-AP: Smoothing the Path Towards Large-Scale Image Retrieval**
+- paper: [https://arxiv.org/abs/2007.12163](https://arxiv.org/abs/2007.12163)
+- summary: []()
+
 **Unifying Deep Local and Global Features for Image Search**
 - paper: [https://arxiv.org/abs/2001.05027](https://arxiv.org/abs/2001.05027)
 - summary: []()
@@ -288,7 +325,7 @@
 - summary: []()
 
 ## poster
-**pherical Feature Transform for Deep Metric Learning**
+**Spherical Feature Transform for Deep Metric Learning**
 - paper: []()
 - summary: []()
 
@@ -309,7 +346,7 @@
 # person/vehicle re-identification
 ## oral
 **Joint Disentangling and Adaptation for Cross-Domain Person Re-Identification**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.10315](https://arxiv.org/abs/2007.10315)
 - summary: []()
 
 **Orientation-aware Vehicle Re-identification with Semantics-guided Part Attention Network**
@@ -361,12 +398,14 @@
 - summary: []()
 
 **Boundary-preserving Mask R-CNN**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.08921](https://arxiv.org/abs/2007.08921)
 - summary: []()
+- code: [https://github.com/hustvl/BMaskR-CNN](https://github.com/hustvl/BMaskR-CNN)
 
 **The Devil is in Classification: A Simple Framework for Long-tail Instance Segmentation**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.11978](https://arxiv.org/abs/2007.11978)
 - summary: []()
+- code: [https://github.com/twangnh/SimCal](https://github.com/twangnh/SimCal)
 
 **SOLO: Segmenting Objects by Locations**
 - paper: [https://arxiv.org/abs/1912.04488](https://arxiv.org/abs/1912.04488)
@@ -476,8 +515,9 @@ Know Your Surroundings: Exploiting Scene Information for Object Tracking**
 # human object interaction detection
 ## poster
 **Detecting Human-Object Interactions with Action Co-occurrence Priors**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.08728](https://arxiv.org/abs/2007.08728)
 - summary: []()
+- code: [https://github.com/Dong-JinKim/ActionCooccurrencePriors/](https://github.com/Dong-JinKim/ActionCooccurrencePriors/)
 
 **UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection**
 - paper: []()
@@ -513,6 +553,11 @@ Know Your Surroundings: Exploiting Scene Information for Object Tracking**
 - summary: []()
 
 ## poster
+**Whole-Body Human Pose Estimation in the Wild**
+- paper: [https://arxiv.org/abs/2007.11858](https://arxiv.org/abs/2007.11858)
+- summary: []()
+- code: [https://github.com/jin-s13/COCO-WholeBody](https://github.com/jin-s13/COCO-WholeBody)
+
 **SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation**
 - paper: []()
 - summary: []()
@@ -568,4 +613,21 @@ Know Your Surroundings: Exploiting Scene Information for Object Tracking**
 
 **Domain Adaptation through Task Distillation**
 - paper: []()
+- summary: []()
+
+<a name="action_recognition"></a>
+
+# Action Recognition
+## poster
+**MotionSqueeze: Neural Motion Feature Learning for Video Understanding**
+- paper: [https://arxiv.org/abs/2007.09933](https://arxiv.org/abs/2007.09933)
+- summary: []()
+- code: []()
+
+<a name="depth_estimation"></a>
+
+# Depth Estimation
+## poster
+**Feature-metric Loss for Self-supervised Learning of Depth and Egomotion**
+- paper: [https://arxiv.org/abs/2007.10603](https://arxiv.org/abs/2007.10603)
 - summary: []()
