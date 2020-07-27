@@ -71,7 +71,7 @@
 ## poster
 **Funnel Activation for Visual Recognition**
 - paper: [https://arxiv.org/abs/2007.11824](https://arxiv.org/abs/2007.11824)
-- summary: []()
+- summary: [Summary/image_recognition/Funnel_Activation_for_Visual_Recognition.md](Summary/image_recognition/Funnel_Activation_for_Visual_Recognition.md)
 - code: [https://github.com/megvii-model/FunnelAct](https://github.com/megvii-model/FunnelAct)
 
 **URIE: Universal Image Enhancement for Visual Recognition in the Wild**
