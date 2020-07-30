@@ -188,6 +188,11 @@
 - paper: []()
 - summary: []()
 
+**Corner Proposal Network for Anchor-free, Two-stage Object Detection**
+- paper: [https://arxiv.org/abs/2007.13816](https://arxiv.org/abs/2007.13816)
+- summary: []()
+- code: [https://github.com/Duankaiwen/CPNDet](https://github.com/Duankaiwen/CPNDet)
+
 ## poster
 **Soft Anchor-Point Object Detection**
 - paper: [https://arxiv.org/abs/1911.12448](https://arxiv.org/abs/1911.12448)
@@ -390,8 +395,9 @@
 
 ## poster
 **SIP: Spatial Information Preservation for Fast Instance Segmentation**
-- paper: []()
+- paper: [https://arxiv.org/abs/2007.14772](https://arxiv.org/abs/2007.14772)
 - summary: []()
+- code: [https://github.com/JialeCao001/SipMask](https://github.com/JialeCao001/SipMask)
 
 **Learning with Noisy Class Labels for Instance Segmentation**
 - paper: []()
@@ -471,8 +477,9 @@
 
 ## spotlight
 **Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking**
-- paper: []()
+- paper: [https://arxiv.org/pdf/2007.14557.pdf](https://arxiv.org/pdf/2007.14557.pdf)
 - summary: []()
+- code: [https://github.com/pjl1995/CTracker](https://github.com/pjl1995/CTracker)
 
 **Tracking objects as points**
 - paper: [https://arxiv.org/abs/2004.01177](https://arxiv.org/abs/2004.01177)
