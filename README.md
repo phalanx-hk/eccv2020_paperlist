@@ -174,9 +174,10 @@
 - paper: [https://arxiv.org/abs/2007.09336](https://arxiv.org/abs/2007.09336)
 - summary: []()
 
-**A General Toolbox for Understanding Errors in Object Detection**
-- paper: []()
-- summary: []()
+**TIDE: A General Toolbox for Understanding Errors in Object Detection**
+- paper: [https://arxiv.org/abs/2008.08115](https://arxiv.org/abs/2008.08115)
+- summary: [https://github.com/phalanx-hk/eccv2020_paperlist/issues/5](https://github.com/phalanx-hk/eccv2020_paperlist/issues/5)
+- code: [https://github.com/dbolya/tide](https://github.com/dbolya/tide)
 
 **Corner Proposal Network for Anchor-free, Two-stage Object Detection**
 - paper: [https://arxiv.org/abs/2007.13816](https://arxiv.org/abs/2007.13816)
