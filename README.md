@@ -69,11 +69,6 @@
 - code: [https://github.com/wutong16/DistributionBalancedLoss](https://github.com/wutong16/DistributionBalancedLoss)
 
 ## poster
-**Funnel Activation for Visual Recognition**
-- paper: [https://arxiv.org/abs/2007.11824](https://arxiv.org/abs/2007.11824)
-- summary: [Summary/image_recognition/Funnel_Activation_for_Visual_Recognition.md](Summary/image_recognition/Funnel_Activation_for_Visual_Recognition.md)
-- code: [https://github.com/megvii-model/FunnelAct](https://github.com/megvii-model/FunnelAct)
-
 **URIE: Universal Image Enhancement for Visual Recognition in the Wild**
 - paper: [https://arxiv.org/abs/2007.08979](https://arxiv.org/abs/2007.08979)
 - summary: []()
@@ -107,11 +102,6 @@
 - paper: [https://arxiv.org/abs/2007.09558](https://arxiv.org/abs/2007.09558)
 - summary: []()
 - code: [https://github.com/yikaiw/RS-Nets](https://github.com/yikaiw/RS-Nets)
-
-**WeightNet: Revisiting the Design Space of Weight Networks**
-- paper: [https://arxiv.org/abs/2007.11823](https://arxiv.org/abs/2007.11823)
-- summary: []()
-- code: [https://github.com/megvii-model/WeightNet](https://github.com/megvii-model/WeightNet)
 
 **Suppressing Mislabeled Data via Grouping and Self-Attention**
 - paper: []()
@@ -190,7 +180,7 @@
 
 **Corner Proposal Network for Anchor-free, Two-stage Object Detection**
 - paper: [https://arxiv.org/abs/2007.13816](https://arxiv.org/abs/2007.13816)
-- summary: []()
+- summary: [https://github.com/phalanx-hk/eccv2020_paperlist/issues/4](https://github.com/phalanx-hk/eccv2020_paperlist/issues/4)
 - code: [https://github.com/Duankaiwen/CPNDet](https://github.com/Duankaiwen/CPNDet)
 
 ## poster
@@ -415,7 +405,7 @@
 
 **SOLO: Segmenting Objects by Locations**
 - paper: [https://arxiv.org/abs/1912.04488](https://arxiv.org/abs/1912.04488)
-- summary: []()
+- summary: [https://github.com/phalanx-hk/eccv2020_paperlist/issues/2](https://github.com/phalanx-hk/eccv2020_paperlist/issues/2)
 
 **LevelSet R-CNN: A Deep Variational Method for Instance Segmentation**
 - paper: []()
@@ -463,7 +453,7 @@
 
 **SegFix: Model-Agnostic Boundary Refinement for Segmentation**
 - paper: [https://arxiv.org/abs/2007.04269](https://arxiv.org/abs/2007.04269)
-- summary: []()
+- summary: [https://github.com/phalanx-hk/eccv2020_paperlist/issues/3](https://github.com/phalanx-hk/eccv2020_paperlist/issues/3)
 - code: [https://github.com/openseg-group/openseg.pytorch](https://github.com/openseg-group/openseg.pytorch)
 
 <a name="tracking"></a>
